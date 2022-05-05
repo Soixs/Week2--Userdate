@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\Userage.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\Userage.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\Userage.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\Userage.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\Userage.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\ref\Userage.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\bin\Debug\net5.0\Userage.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\ref\Userage.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\Userage\obj\Debug\net5.0\Userage.genruntimeconfig.cache

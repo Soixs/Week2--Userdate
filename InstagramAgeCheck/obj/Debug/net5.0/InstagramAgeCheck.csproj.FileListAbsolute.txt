@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\ref\InstagramAgeCheck.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\bin\Debug\net5.0\InstagramAgeCheck.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\ref\InstagramAgeCheck.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\InstagramAgeCheck\obj\Debug\net5.0\InstagramAgeCheck.genruntimeconfig.cache

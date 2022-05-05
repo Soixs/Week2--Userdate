@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\DrivingLisence.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\DrivingLisence.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\DrivingLisence.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\DrivingLisence.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\DrivingLisence.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\ref\DrivingLisence.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\bin\Debug\net5.0\DrivingLisence.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\ref\DrivingLisence.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Userdate\DrivingLisence\obj\Debug\net5.0\DrivingLisence.genruntimeconfig.cache
